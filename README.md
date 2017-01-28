@@ -1,2 +1,0 @@
-# mql
-Quotes Lab
